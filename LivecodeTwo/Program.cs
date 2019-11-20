@@ -12,7 +12,7 @@ namespace LivecodeTwo
    
             { 
                 string[] sampleArr = sample.Split();
-                int num;
+                
                 for (int i=0; i<sample.Length; i++)
                 { 
                     int k = 0;
